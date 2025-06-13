@@ -9,7 +9,6 @@ This project analyzes a dataset of 10,000 bank customers to predict churn. The g
 * Feature engineering was crucial, revealing that the account balance of German customers is a uniquely powerful predictor of churn.
 
 ![Feature Importance Chart](images/feature_importance_chart.png)
-
 ## Recommendations
 
 Based on the analysis, several key strategies were recommended:
@@ -21,7 +20,7 @@ Based on the analysis, several key strategies were recommended:
 
 1.  Clone the repository: `git clone [URL]`
 2.  Install the required packages: `pip install -r requirements.txt`
-3.  Navigate to the `notebooks` directory and run the `churn_analysis_and_modeling.ipynb` Jupyter Notebook.
+3.  Navigate to the `notebooks` directory and run the `bank_churn_predictive_model.ipynb` Jupyter Notebook.
 
 ## Tools & Libraries
 * Python
