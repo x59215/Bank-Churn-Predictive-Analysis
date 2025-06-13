@@ -1,4 +1,4 @@
-# Predictive Model for Bank Customer Churn
+# Bank Customer Churn Predictive Analysis
 
 For a detailed, narrative walkthrough of this project, please see the [full case study here](./CASE_STUDY.md).
 
