@@ -1,15 +1,16 @@
-Case Study: A Predictive Strategy for Customer Retention
-Project Overview
+# Case Study: A Predictive Strategy for Customer Retention
+## Project Overview
 
 This case study details the development of a predictive model created to help a major bank reduce customer churn. The objective was to anticipate customer departures and create a strategy for early intervention. After analyzing customer patterns and optimizing a machine learning model, this project identified the key reasons for churn and delivered a tool capable of flagging 74% of potential churners, leading to a set of specific recommendations.
 
-Tools Used: Python, Pandas, Scikit-learn, Imbalanced-learn, Matplotlib, Seaborn
+### Tools Used: Python, Pandas, Scikit-learn, Imbalanced-learn, Matplotlib, Seaborn
 
 
 1. The Challenge: Stemming the Tide of Customer Churn
 Consistent customer retention is crucial for long-term growth in the banking sector. The business faced a significant challenge with customer attrition, which impacted revenue and market stability. Historically, retention efforts were triggered only after a customer had already initiated the process of closing their account, making these efforts costly and often too late.
 
 The central challenge was clear: How can we identify which customers are likely to leave ahead of time, and what specific actions can we take to convince them to stay?
+
 
 2. The Approach: A Methodical Path from Data to Decision
 The project followed several key steps to ensure the final conclusions were accurate and useful for the business.
