@@ -18,7 +18,7 @@ Based on the analysis, several key strategies were recommended:
 
 ## How to Use This Repository
 
-1.  Clone the repository: `git clone [URL]`
+1.  Clone the repository: `git clone https://github.com/x59215/Bank-Churn-Predictive-Analysis.git`
 2.  Install the required packages: `pip install -r requirements.txt`
 3.  Navigate to the `notebooks` directory and run the `bank_churn_predictive_model.ipynb` Jupyter Notebook.
 
