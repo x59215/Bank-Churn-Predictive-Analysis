@@ -1,5 +1,7 @@
 # Predictive Model for Bank Customer Churn
 
+For a detailed, narrative walkthrough of this project, please see the [full case study here](./CASE_STUDY.md).
+
 This project analyzes a dataset of 10,000 bank customers to predict churn. The goal was to move beyond reactive retention efforts and build a model that could proactively identify customers at risk of leaving, enabling the bank to implement targeted retention strategies.
 
 ## Key Findings
